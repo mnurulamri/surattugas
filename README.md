@@ -130,7 +130,6 @@ Pengembangan sistem meliputi:
 
 ### Muhammad Nuurul Amri
 
-Programmer  
 OPF Sub Unit IT dan Digitalisasi FISIP UI
 
 ---
